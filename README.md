@@ -1,1 +1,2 @@
 # Decryptor
+Public decryptor class
